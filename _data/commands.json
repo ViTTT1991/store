@@ -1,0 +1,452 @@
+[
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": true,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Показывает текущий баланс, карму и сколько зарабатываешь за цикл.",
+    "name": "Check balance",
+    "usage": "!баланс",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "CheckBalance"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Ссыль на страницу магазина.",
+    "name": "Purchase list",
+    "usage": "!магазин",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "PurchaseList"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Подарить другому пользователю монеты. Команда в формате: !датьденег <Ник> <кол-во>",
+    "name": "Gift coins",
+    "usage": "!датьденег <viewer> <amount>",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "GiftCoins"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Стать в бесплатную очередь на получение своей пешки (из игры).",
+    "name": "Join queue",
+    "usage": "!вочередь",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "JoinQueue"
+  },
+    {
+    "data": {
+      "isShortcut": false,
+      "isBuy": true,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Купить предмет или событие. Некоторые события, такие как рейд - нужно указывать самостоятельно цену.",
+    "name": "Buy",
+    "usage": "!купить",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Buy"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": true,
+      "globalCooldown": 300,
+      "hasLocalCooldown": false,
+      "localCooldown": 300,
+      "mod": "Twitch Toolkit"
+    },
+    "description": "Показывает все доступные команды.",
+    "name": "All commands",
+    "usage": "!команды",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AvailableCommands"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Воскрешает Вашего персонажа. Стоимость 2000.",
+    "name": "Revive me",
+    "usage": "!воскресить",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "ReviveMeShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Лечит одну травму. Стоимость 500.",
+    "name": "Heal me",
+    "usage": "!ВылечитьМеня",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "HealMeShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Полностью излечивает всех пешек. Стоимость 3000.",
+    "name": "Healall",
+    "usage": "!вылечитьвсех",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "HealAllShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": true,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Полностью излечивает Вашу пешку. Стоимость 1000",
+    "name": "Full heal",
+    "usage": "!исцелить",
+    "userLevel": "Anyone",
+    "shortcut": true,
+    "defName": "FullHealShortcut"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Показывает кол-во убитых Вами существ.",
+    "name": "Viewer kill count",
+    "usage": "!сколькоубил",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnKills"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Показывает Ваши статы.",
+    "name": "Viewer stats",
+    "usage": "!статы",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnStats"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Показывает Ваше здоровье.",
+    "name": "Viewer health",
+    "usage": "!здоровье",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnHealth"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 500,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Показывает Ваши нужды.",
+    "name": "Viewer needs",
+    "usage": "!нужды",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnNeeds"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Показывает что на тебе надето.",
+    "name": "Viewer gear",
+    "usage": "!моивещи",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnGear"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Описывает Ваше тело",
+    "name": "Viewer body",
+    "usage": "!тело",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnBody"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 600,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Краткая биография Вашей пешки",
+    "name": "Viewer story",
+    "usage": "!история",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnStory"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 300,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Умения Вашей пешки.",
+    "name": "Viewer skills",
+    "usage": "!скилы",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "MyPawnSkills"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Использовать если вы купили пешку, но она не с Вашим именем.",
+    "name": "Fix viewer pawn",
+    "usage": "!починитьимя",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "FixMyPawn"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Ваша пешка покидает колонию.",
+    "name": "Abandon pawn",
+    "usage": "!уйти",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "AbandonPawn"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Показывает текущее исследование.",
+    "name": "Research",
+    "usage": "!исследование",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Research"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Ваша пешка начинает оскорблять рандомную. Если нужно оскорбить кого-то конкретно - !оскорбить [ник]",
+    "name": "Insult",
+    "usage": "!оскорбить [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Insult"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 30,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Пешка начинает общаться с рандомной пешкой Если нужно поговорить с конкретной - !поговорить [ник].",
+    "name": "Chat",
+    "usage": "!поговорить [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Chat"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": true,
+      "localCooldown": 60,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Пешка начинает флиртовать с рандомной пешкой Если нужно поговорить с конкретной - !флирт [ник].",
+    "name": "Flirt",
+    "usage": "!флирт [target]",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "Flirt"
+  },
+  {
+    "data": {
+      "isShortcut": false,
+      "isBuy": false,
+      "isBalance": false,
+      "hasGlobalCooldown": false,
+      "globalCooldown": 0,
+      "hasLocalCooldown": false,
+      "localCooldown": 0,
+      "mod": "ToolkitUtils"
+    },
+    "description": "Бывает что команда не срабатывает и зависает. Система в чате сама оповестит что нужно ввести команду от глюков",
+    "name": "Unstick me",
+    "usage": "!глюк",
+    "userLevel": "Anyone",
+    "shortcut": false,
+    "defName": "UnstickMe"
+  }
+]

@@ -1,0 +1,400 @@
+{
+	"incitems" : [
+	{
+		"abr": "Торнадо",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ТорнадоМного",
+		"price": 2600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПогодаЯсно",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Дождь",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Рвотныйдождь",
+		"price": 650,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "ТуманныйДождь",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "ДождьсМолнией",
+		"price": 250,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "СухаяГроза",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Снег",
+		"price": 350,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "Снегопад",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Туман",
+		"price": 300,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "Жара",
+		"price": 750,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Гроза",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Похолодание",
+		"price": 800,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "СолнечнаяВспышка",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "КороткоеЗамыкание",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ТоксическиеОсадки",
+		"price": 6500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "ВулканическаяЗима",
+		"price": 3200,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "Затмение",
+		"price": 450,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Аурора",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Портить",
+		"price": 700,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПриручитьЖивотное",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ЖивотноеПрисоединяется",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ГрузовыеКонтейнеры",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Торговец",
+		"price": 275,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ОрбитальныйТорговец",
+		"price": 350,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Метеорит",
+		"price": 150,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "ЧеловеквЧерном",
+		"price": 1500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "БезумноеЖивотное",
+		"price": 200,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПсихДрон",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПсихУспокоение",
+		"price": 250,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Амброзия",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "МиграцияТравоядных",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ПотерянныеЖивотные",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ДикийЧеловек",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ДикиеТрумбо",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ПадениеОбломков",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Путешественники",
+		"price": 80,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Гости",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "УвеличитьРандомныйСкилл",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Вечеринка",
+		"price": 400,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Альфабобры",
+		"price": 600,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ЯдовитыйКорабль",
+		"price": 1900,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПсихоактивныйКорабль",
+		"price": 2400,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ПриходСоюзников",
+		"price": 700,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Рейд",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "dropraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "РейдСаперов",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ОсадныйРейд",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Механоиды",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Заражение",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "АгрессивныеЖивотные",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "Хищники",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "СлучайнаяБолезнь",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "ВосскреситьРандома",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "пешка",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "черта",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "убратьчерту",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ПоменятьПол",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "Предмет",
+		"price": 1,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Узник",
+		"price": 800,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ПрийтиКакГость",
+		"price": 300,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "СлучайноеВдохновение",
+		"price": 450,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ГолосованиеЗаСобытие",
+		"price": 750,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "ВосскреситьВсех",
+		"price": 5000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "восскресить",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВылечитьВсех",
+		"price": 3000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВылечитьРандома",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "ВылечитьМеня",
+		"price": 500,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "СпасиМеня",
+		"price": 1200,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "исцелить",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "умение",
+		"price": 1000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "Рюкзак",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "Вооружиться",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "ИзменитьДетство",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "ИзменитьЗрелось",
+		"price": 3000,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "Поджечь",
+		"price": 1500,
+		"karmatype": "Doom"
+	},
+	{
+		"abr": "Святилище",
+		"price": 100000,
+		"karmatype": "Good"
+	}
+	],
+	"total": 79
+}
